@@ -1,5 +1,3 @@
-public interface Success {
-    public static void isSuccessful( );
-
-
+interface Success {
+    boolean isSuccessful( );
 }
